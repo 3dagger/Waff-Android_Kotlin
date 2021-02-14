@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="login_type">
+        <item></item>
+        <item>Google ID</item>
+        <item>Kakao ID</item>
+    </string-array>
+
+    <string-array name="club_type">
+        <item>클럽 미설정</item>
+        <item>그린클럽</item>
+        <item>옐로클럽</item>
+        <item>오렌지클럽</item>
+        <item>레드클럽</item>
+    </string-array>
+
+    <string-array name="club_vod">
+        <item>전체스케줄</item>
+        <item>Green club</item>
+        <item>Yellow club</item>
+        <item>Orange club</item>
+        <item>Red club</item>
+    </string-array>
+
+</resources>
